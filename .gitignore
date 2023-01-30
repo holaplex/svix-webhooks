@@ -1,9 +1,8 @@
-# Javascript
-/node_modules
+/target/
+**/*.rs.bk
+Cargo.lock
 
-#PHP
-/vendor/
-composer.lock
+/.openapi-generator/
 
-#IDE
-.vscode
+/src/apis/
+/src/models/

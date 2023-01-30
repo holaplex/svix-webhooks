@@ -1,5 +1,0 @@
-[workspace]
-members = ["svix-server", "svix-server_derive"]
-
-[patch.crates-io]
-hyper = { git = "https://github.com/svix/hyper/", rev = "b901ca7c" }
